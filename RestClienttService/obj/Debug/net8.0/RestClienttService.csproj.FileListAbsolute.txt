@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\RestClienttService\bin\Debug\net8.0\RestClienttService.deps.json
+C:\Users\Admin\source\repos\RestClienttService\bin\Debug\net8.0\RestClienttService.dll
+C:\Users\Admin\source\repos\RestClienttService\bin\Debug\net8.0\RestClienttService.pdb
+C:\Users\Admin\source\repos\RestClienttService\obj\Debug\net8.0\RestClienttService.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RestClienttService\obj\Debug\net8.0\RestClienttService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RestClienttService\obj\Debug\net8.0\RestClienttService.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RestClienttService\obj\Debug\net8.0\RestClienttService.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RestClienttService\obj\Debug\net8.0\RestClienttService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RestClienttService\obj\Debug\net8.0\RestClienttService.dll
+C:\Users\Admin\source\repos\RestClienttService\obj\Debug\net8.0\refint\RestClienttService.dll
+C:\Users\Admin\source\repos\RestClienttService\obj\Debug\net8.0\RestClienttService.pdb
+C:\Users\Admin\source\repos\RestClienttService\obj\Debug\net8.0\ref\RestClienttService.dll

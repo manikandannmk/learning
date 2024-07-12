@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\RestClientModels\bin\Debug\net8.0\RestClientModels.deps.json
+C:\Users\Admin\source\repos\RestClientModels\bin\Debug\net8.0\RestClientModels.dll
+C:\Users\Admin\source\repos\RestClientModels\bin\Debug\net8.0\RestClientModels.pdb
+C:\Users\Admin\source\repos\RestClientModels\obj\Debug\net8.0\RestClientModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RestClientModels\obj\Debug\net8.0\RestClientModels.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RestClientModels\obj\Debug\net8.0\RestClientModels.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RestClientModels\obj\Debug\net8.0\RestClientModels.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RestClientModels\obj\Debug\net8.0\RestClientModels.dll
+C:\Users\Admin\source\repos\RestClientModels\obj\Debug\net8.0\refint\RestClientModels.dll
+C:\Users\Admin\source\repos\RestClientModels\obj\Debug\net8.0\RestClientModels.pdb
+C:\Users\Admin\source\repos\RestClientModels\obj\Debug\net8.0\ref\RestClientModels.dll
